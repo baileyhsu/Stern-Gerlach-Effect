@@ -11,7 +11,7 @@ Recommend using Matlab R2015 or later on either PC or Mac with at least 2GB of R
 
 
 ## Publication
-- ["Stern-Gerlach dynamics with quantum propagators"](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.83.012109) - *Bailey C. Hsu, Manuel Berrondo, Jean-Francois S Van Huele*
+- ["Stern-Gerlach dynamics with quantum propagators"](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.83.012109) - *Bailey C. Hsu, Manuel Berrondo, and Jean-Francois S Van Huele*
 
 
 
